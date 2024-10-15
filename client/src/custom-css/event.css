@@ -1,0 +1,16 @@
+
+ .fc-popover.fc-more-popover{
+    background-color: #141b2d;
+    color: white;
+ }
+ .fc-list-day.fc-day{
+  background-color: #141b2d !important;
+  color: #000; 
+}
+
+.fc-list-table tbody tr:hover td {
+  background-color: rgb(31, 31, 36) !important;
+  color: white;
+}
+
+

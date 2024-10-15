@@ -1,0 +1,26 @@
+
+.ql-toolbar .ql-stroke {
+  fill: none;
+  stroke: #fff;
+}
+.ql-toolbar .ql-fill {
+  fill: #fff;
+  stroke: none;
+}
+
+.ql-toolbar .ql-picker {
+  color: #fff;
+}
+
+.ql-picker-options {
+  background-color: #4d4d4d !important; 
+}
+.ql-picker-options .ql-picker-item {
+  color: white !important; 
+}
+.ql-container {
+  border-color: rgb(117, 117, 117)!important;
+}
+.ql-toolbar{
+  border-color: rgb(117, 117, 117) !important;
+}

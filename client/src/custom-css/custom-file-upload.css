@@ -1,0 +1,45 @@
+.uploadform{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px dashed #1475cf;
+    height: 200px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .uploaded-row{   
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    border-radius: 5px;
+  }
+  
+  .upload-content{
+    display: flex;
+    align-items: center;
+  }
+  .my-popup-class {
+    background-color:#141b2d;
+    max-width: 450px;
+    max-height: 300px;
+   
+  }
+  
+  
+  
+  .swal2-container .swal2-timer-progress-bar {
+    background-color: #4682B4 !important;
+}
+.my-popup-class .swal2-title {
+  color: white;
+  font-size: 20px;
+}
+
+.my-popup-class .swal2-html {
+  color: white;
+  font-size: 15px;
+}
